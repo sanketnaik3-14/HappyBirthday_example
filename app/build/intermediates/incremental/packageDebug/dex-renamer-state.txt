@@ -1,0 +1,7 @@
+#Tue Jan 10 16:26:26 IST 2017
+base.0=/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66f590b401e6a231a57cd9a3493772f162050b4f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfe6879cd14d289b96fd372e25bf7f9980e24f74/classes.dex
+base.1=/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfe6879cd14d289b96fd372e25bf7f9980e24f74
+file.0=/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66f590b401e6a231a57cd9a3493772f162050b4f/classes.dex

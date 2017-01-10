@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25923240194bd7903fa8ee193c27eb2d65741af6">
+        <dex dex="/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66f590b401e6a231a57cd9a3493772f162050b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="217e5442d33ef7b91349d33922dc0d0c26af8e55">
+        <dex dex="/Users/sanket/AndroidStudioProjects/HappyBirthday_example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfe6879cd14d289b96fd372e25bf7f9980e24f74/classes.dex" />
+    </item>
+
+</items>
